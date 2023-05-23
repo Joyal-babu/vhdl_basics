@@ -3,3 +3,6 @@ modeled using mealy machine concept, where the output depends on both the input 
 
 >WAVEFORM
 
+
+
+![seq detect 000](https://github.com/Joyal-babu/vhdl_basics/assets/123290522/c6f72c87-acdc-4d6f-aac4-aa4ce2cc5379)
